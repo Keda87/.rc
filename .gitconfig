@@ -1,6 +1,11 @@
 [user]
-  email = adiyatmubarak@gmail.com
-  name = Keda87
-
-[core]
-  editor = vim
+        email = adiyatmubarak@gmail.com
+        name = Keda87
+[code]
+        editor = vim
+[init]
+        defaultBranch = main
+[push]
+        default = current
+[branch]
+        autoSetupRemote = true
